@@ -1,0 +1,10 @@
+{
+"name":"OMNIA OS",
+"short_name":"OMNIA",
+"description":"Future AI Operating System",
+"start_url":"/",
+"display":"standalone",
+"background_color":"#f7f8fc",
+"theme_color":"#ffffff",
+"orientation":"portrait"
+}
